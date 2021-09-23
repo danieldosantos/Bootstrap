@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #298a08;  
+
+}
+.quem-somos {
+    list-style:none;
+    background-color: hsl(240, 88%, 74%);  
+   
+}
+.navbar-nav{
+    display:inline-block;
+}
+.nav-item{
+    align-items: center;
+    list-style: none;
+}
+
+
+
+    
+
